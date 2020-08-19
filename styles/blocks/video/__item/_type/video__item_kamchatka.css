@@ -1,0 +1,9 @@
+.video__item_kamchatka {
+  background-image: url(../../../../../img/video/colors_of_kamchatka.jpg);
+}
+
+@media screen and (max-width: 520px) {
+  .video__item_kamchatka {
+    margin-bottom: 8px;
+  }
+}

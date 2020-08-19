@@ -1,0 +1,12 @@
+.comments__quote {
+  margin-left: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .comments__quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+}

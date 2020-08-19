@@ -1,0 +1,37 @@
+.video__icon-play {
+  display: flex;
+  position: relative;
+  width: 41px;
+  height: 41px;
+  z-index: 1;
+  /* margin-bottom: 94px;
+  margin-right: 512px; */
+}
+
+/* @media screen and (max-width: 1190px) {
+  .video__icon-play {
+    margin-bottom: 54px;
+    margin-right: 385px;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .video__icon-play {
+    margin-bottom: 39px;
+    margin-right: 287px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .video__icon-play {
+    margin-bottom: 41px;
+    margin-right: 278px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .video__icon-play {
+    margin-bottom: 23px;
+    margin-right: 232px;
+  }
+} */

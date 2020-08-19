@@ -1,0 +1,12 @@
+.header__lang_active {
+  display: block;
+  text-decoration: none;
+}
+
+.header__lang_active::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: white;
+}

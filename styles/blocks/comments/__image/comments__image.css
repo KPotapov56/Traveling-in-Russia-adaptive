@@ -1,0 +1,9 @@
+.comments__image {
+  border-radius: 90px;
+}
+
+@media screen and (max-width: 768px) {
+  .comments__image {
+    margin-top: 47px;
+  }
+}

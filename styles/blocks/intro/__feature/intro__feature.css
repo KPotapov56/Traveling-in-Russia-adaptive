@@ -1,0 +1,13 @@
+.intro__feature {
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 375px) {
+  .intro__feature {
+    font-size: 12px;
+    line-height: 19px;
+  }
+}

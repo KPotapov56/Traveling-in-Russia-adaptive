@@ -1,0 +1,30 @@
+@import url("../intro/__title/intro__title.css");
+@import url("../intro/__content-row/intro__content-row.css");
+@import url("../intro/__features/intro__features.css");
+@import url("../intro/__feature/intro__feature.css");
+@import url("../intro/__span-accent/intro__span-accent.css");
+@import url("../intro/__text/intro__text.css");
+
+.intro {
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto 0px;
+}
+
+@media screen and (max-width: 990px) {
+  .intro {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .intro {
+    max-width: 343px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .intro {
+    max-width: 288px;
+  }
+}
